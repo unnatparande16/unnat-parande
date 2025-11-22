@@ -98,9 +98,9 @@ export function Navbar() {
                 {/* Actions */}
                 <div className="hidden md:flex items-center gap-4">
                   <ThemeToggle />
-                  <Button asChild size="sm" className="font-medium">
+                  {/* <Button asChild size="sm" className="font-medium">
                     <Link href="/contact">Hire Me</Link>
-                  </Button>
+                  </Button> */}
                 </div>
 
                 {/* Mobile Menu Button */}
